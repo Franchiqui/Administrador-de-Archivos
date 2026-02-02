@@ -1,0 +1,8 @@
+{
+  "projectId": "3qpbj66945tz07t",
+  "imports": [
+    "@/components/layout/footer"
+  ],
+  "detectedAt": "2026-02-02T09:56:57.588Z",
+  "sourceFile": "app/page.tsx"
+}
